@@ -1,5 +1,4 @@
-# Privatizing Recommendation Datasets with
-Differential Privacy
+# Privatizing Recommendation Datasets with Differential Privacy
 
 # Results
 
